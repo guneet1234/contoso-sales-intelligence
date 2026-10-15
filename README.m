@@ -39,9 +39,9 @@ Before building the dashboard, I cleaned the raw sales data in Excel.
 - Rows after cleaning: [current count]
 
 **Files**
-- Original dataset: 
-- Cleaned dataset: 
-- VBA code: 
+- Original dataset: [Link to file]
+- Cleaned dataset: [Link to file]
+- VBA code: [Link to file]
 
 ## 3. Tableau: Data Visualization and Dashboard
 
@@ -56,7 +56,7 @@ The sales data is connected to the dimension tables. Product, subcategory and ca
 
 Join type used: _[inner / left / right / full]
 
-![Tableau data model]
+![Tableau data model][Link to file]
 
 ### Worksheets and charts
 
@@ -83,7 +83,7 @@ _[Add fonts, chart-formatting choices and any other design decisions.]_
 
 **Filters:** Channel, Class, Product Subcategory, Continent
 
-![Sales dashboard](images/tableau-dashboard.png)
+![Sales dashboard][Link to file]
 
 ### Key insights
 
