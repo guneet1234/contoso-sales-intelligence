@@ -89,17 +89,17 @@ _[Add fonts, chart-formatting choices and any other design decisions.]_
 
 1. Strong, healthy business. Revenue is 2,301,662,971, with 8,743,836 units sold and a profit of 1,329,922,964 against a total cost of 971,740,007. The 58% profit margin indicates strong profitability.
 
-2. Store leads, and North America dominates. North America generates ~812M in profit, ahead of Europe (~265M) and Asia (~254M). Catalog sales exist only in North America, suggesting potential for expansion into other regions.
+2. Store leads, North America dominates. North America generates ~812M in profit, ahead of Europe (~265M) and Asia (~254M). Catalog sales exist only in North America, suggesting potential for expansion.
 
-3. Growth opportunities. Online and Reseller are smaller channels across continents. Expanding them, particularly in Asia and Europe, could diversify revenue and reduce dependence on Store sales. Further analysis should confirm their profitability and growth potential.
+3. Growth opportunities. Online and Reseller are smaller channels. Expanding them in Asia and Europe could diversify revenue and reduce dependence on Store sales, subject to profitability checks.
 
-4. Seasonality. November and December appear to be the strongest months across all classes [verify]. If confirmed, advance inventory planning and targeted promotions could help maximise seasonal sales.
+4. Seasonality. November and December appear to be the strongest months across all classes [verify]. If confirmed, advance inventory planning and targeted promotions could maximise sales.
 
-5. Product class trends. Economy sales increase over time, while Regular declines and Deluxe remains the lowest-performing class. This may indicate changing customer preferences, making Regular's declining performance worth investigating.
+5. Product class trends. Economy sales increase over time, while Regular declines and Deluxe remains the lowest-performing class. Regular's decline warrants further investigation.
 
-6. Value vs. volume. Average revenue per unit is approximately 263. Comparing product-level revenue and quantity can identify high-value products versus volume sellers, helping refine pricing and sales strategies.
+6. Value vs. volume. Average revenue per unit is approximately 263. Comparing product-level revenue and quantity can identify high-value products versus volume sellers and guide pricing strategies.
 
-7. Profit trends. Cumulative profit rises steadily, indicating positive overall profitability. However, monthly profit analysis is needed to identify fluctuations and weaker periods.
+7. Profit trends. Cumulative profit rises steadily, indicating positive overall profitability. Monthly analysis is needed to identify fluctuations and weaker periods.
 
 ## Author
 
